@@ -1,2 +1,2 @@
-# temprepo
-# Dummy description
+# temprepo.
+# Dummy description.
